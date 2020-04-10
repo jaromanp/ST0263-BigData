@@ -23,3 +23,7 @@
 1. El salario promedio por Sector Económico (SE)
 2. El salario promedio por Empleado
 3. Número de SE por Empleado que ha tenido a lo largo de la estadística
+
+## 2. Ejecución del punto
+[Lab MapReduce](/LabMapReduce)
+
