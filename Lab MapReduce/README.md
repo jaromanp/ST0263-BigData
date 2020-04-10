@@ -10,7 +10,7 @@ jaromanp@eafit.edu.co
 >		user@master$ sudo pip install mrjob
 
 * Ejecución del código
->		user@master$ cd Lab\ MapReduce/
+>		user@master$ cd Lab MapReduce
 >		user@master$ python AverageSalaryES.py dataempleados.csv
 >		user@master$ python AverageSalaryEmployee.py dataempleados.csv
 >		user@master$ python EmployeesES.py dataempleados.csv
