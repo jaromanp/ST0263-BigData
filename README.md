@@ -25,5 +25,5 @@
 3. Número de SE por Empleado que ha tenido a lo largo de la estadística
 
 ## 2. Ejecución del punto
-[Lab MapReduce](/LabMapReduce)
+[Lab MapReduce](/Lab%20MapReduce)
 
