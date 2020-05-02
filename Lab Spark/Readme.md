@@ -3,3 +3,6 @@
 # Profesor: Edwin Montoya M. – emontoya@eafit.edu.co
 
 # LAB SPARK
+## Desarrollado por: José Alejandro Román P. - jaromanp@eafit.edu.co
+
+Recomendado ejecutar en Jupyter Notebooks
